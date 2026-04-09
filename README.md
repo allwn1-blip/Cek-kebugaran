@@ -1,2 +1,2 @@
 # Cek-kebugaran
-Membantu merekomendasikan komposisi porsi makanan yang seimbang 
+aplikasi ini bertujuan untuk mengetahui apakah badan anda ideal /tidok
